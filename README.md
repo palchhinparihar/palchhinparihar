@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Palchhin](https://palchhin-portfolio.netlify.app/)!
+# 👋 Hi there, I'm [Palchhin](https://palchhin-portfolio.netlify.app)!
 
 Welcome to my GitHub! I'm a passionate **Frontend Developer** and a final-year **BCA student**, focused on creating user-friendly and responsive web applications using **React**. I love turning ideas into interactive digital experiences.
 
@@ -17,9 +17,9 @@ Welcome to my GitHub! I'm a passionate **Frontend Developer** and a final-year *
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React.js, JavaScript, HTML5, CSS3, Tailwind CSS  
+- **Frontend:** React.js, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
+- **Database:** MongoDB, SQLite
 - **Tools:** Git, GitHub, Vite, Thunderclint, Netfliy, VS Code  
 
 ---
@@ -30,7 +30,7 @@ Here are a few of my recent projects:
 
 - **📝 SwiftNote** – A full-stack note-taking app built with the MERN stack  
 - **🧙‍♂️ WordWizard** – A React-based text utility web app  
-- **📰 News Portal** – A dynamic React app with infinite scrolling and category filtering  
+- **📰 MediaMinds** – A dynamic React News app with infinite scrolling and category filtering  
 - **🎥 Deepfake Detection** – Research on detecting deepfakes using Xception + GRU/LSTM on the DFDC dataset
 
 > More projects coming soon...
