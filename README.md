@@ -1,15 +1,15 @@
 # 👋 Hi there, I'm [Palchhin](https://palchhin-portfolio.netlify.app)!
 
-Welcome to my GitHub! I'm a passionate **Frontend Developer** and a final-year **BCA student**, focused on creating user-friendly and responsive web applications using **React**. I love turning ideas into interactive digital experiences.
+Welcome to my GitHub! I'm a passionate **Frontend Developer**, focused on creating user-friendly and responsive web applications using **React**. I love turning ideas into interactive digital experiences.
 
 ---
 
 ##  👩‍💻 About Me
 
-- 🎓 Final Year BCA Student | CGPA: 9.62
+- 🎓 BCA Graduate | (Results yet to be announced)
 - 🧠 Self-learner passionate about **Web Development** and **Artificial Intelligence**
 - 🌱 Currently learning:  
-  - **Data Structures & Algorithms** (priority)  
+  - **Data Structures & Algorithms** 
   - **Korean Language** 🇰🇷  
   - Exploring **Deepfake Detection** with CNN + RNN architectures (Xception + LSTM/GRU)
 
