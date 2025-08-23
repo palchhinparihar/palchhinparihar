@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Palchhin](https://palchhin-portfolio.netlify.app)!
+# 👋 Hi there, I'm [Palchhin](https://palchhin.me)!
 
 Welcome to my GitHub! I'm a passionate **Frontend Developer**, focused on creating user-friendly and responsive web applications using **React**. I love turning ideas into interactive digital experiences.
 
