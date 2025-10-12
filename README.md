@@ -15,6 +15,10 @@ I’ve completed 2 freelance projects and am currently working on my 3rd, shapin
 
 ---
 
+## Hacktoberfest 2025
+
+[![An image of @palchhinparihar's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)
+
 ## 🚀 Projects
 
 Here are a few of my recent projects:
