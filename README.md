@@ -4,22 +4,29 @@ Welcome to my GitHub! A tech girlie here, who loves working on the frontend beca
 
 I’ve completed 2 freelance projects and am currently working on my 3rd, shaping both front and back into seamless experiences.
 
----
-
-##  👩‍💻 About Me
+##  About Me
 
 - 🎓 BCA Graduate | (Results yet to be announced)
 - ✨ Building/contributing something day by day.
 - 🎥 Explored AI research in deepfake detection, developing hybrid models (Xception + LSTM/GRU) in Google Colab, with a research paper in preparation
 - 🌏 Ranked in the Top 18% (out of 5,231 participants) at METI Japan’s Global IT Contest 2025, part of the AI & Tech Internship selection program
 
----
+## Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,vscode,netlify" />
+</p>
 
 ## Hacktoberfest 2025
 
 [![An image of @palchhinparihar's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)
 
-## 🚀 Projects
+## GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=palchhinparihar&show_icons=true&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palchhinparihar&theme=transparent&hide_border=true" height="170" />
+</p>
+
+## Projects
 
 Here are a few of my recent projects:
 
@@ -28,9 +35,3 @@ Here are a few of my recent projects:
 - **🎥 Deepfake Detection** – Research on detecting deepfakes using Xception + GRU/LSTM on the DFDC dataset
 
 > More projects coming soon...
-
----
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palchhinparihar)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/palchhinparihar/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palchhinparihar@gmail.com)
