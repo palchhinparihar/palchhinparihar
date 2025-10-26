@@ -18,7 +18,12 @@ I’ve completed 2 freelance projects and am currently working on my 3rd, shapin
 
 ## Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,vscode,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,bootstrap,tailwind" />
+</p>
+
+## Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
 </p>
 
 ## Hacktoberfest 2025
@@ -31,6 +36,7 @@ I’ve completed 2 freelance projects and am currently working on my 3rd, shapin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=palchhinparihar&theme=transparent&hide_border=true" height="170" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=palchhinparihar&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=palchhinparihar&theme=algolia&no-frame=false&no-bg=false&margin-w=4) -->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
