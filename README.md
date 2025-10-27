@@ -1,6 +1,6 @@
 # Hi, [Palchhin](https://palchhin.me) here! :)
 
-Welcome to my GitHub! A tech girlie here, who loves working on the frontend because it feels like building my own little world on a screen - choosing the flow, colors, and motion. Most days I’m in React with Tailwind or Bootstrap, and I also handle the backend with the MERN stack, so everything connects.
+Welcome to my GitHub! A tech girlie here, who loves working on the frontend because it feels like building my own little world on a screen - choosing the flow, colors, and motion. Most days, I work with React and Tailwind or Bootstrap, and I also handle the backend using the MERN stack, so everything connects seamlessly.
 
 I’ve completed 2 freelance projects and am currently working on my 3rd, shaping both front and back into seamless experiences.
 
@@ -21,7 +21,7 @@ I’ve completed 2 freelance projects and am currently working on my 3rd, shapin
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,bootstrap,tailwind" />
 </p>
 
-## Tech Stack
+## Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
 </p>
