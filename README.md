@@ -36,7 +36,6 @@ I’ve completed 2 freelance projects and am currently working on my 3rd, shapin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=palchhinparihar&theme=transparent&hide_border=true" height="170" />
 </p>
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=palchhinparihar&theme=algolia&no-frame=false&no-bg=false&margin-w=4) -->
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=palchhinparihar&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
