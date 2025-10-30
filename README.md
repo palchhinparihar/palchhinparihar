@@ -7,6 +7,7 @@ I’ve completed 2 freelance projects and am currently working on my 3rd, shapin
 ##  About Me
 
 - 🎓 BCA Graduate | (Results yet to be announced)
+- 🍃 I am an INTJ-A.
 - ✨ Building/contributing something day by day.
 - 🎥 Explored AI research in deepfake detection, developing hybrid models (Xception + LSTM/GRU) in Google Colab, with a research paper in preparation
 - 🌏 Ranked in the Top 18% (out of 5,231 participants) at METI Japan’s Global IT Contest 2025, part of the AI & Tech Internship selection program
