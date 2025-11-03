@@ -1,42 +1,39 @@
 # Hi, [Palchhin](https://palchhin.me) here! :)
 
-Welcome to my GitHub! A tech girlie here, who loves working on the frontend because it feels like building my own little world on a screen - choosing the flow, colors, and motion. Most days, I work with React and Tailwind or Bootstrap, and I also handle the backend using the MERN stack, so everything connects seamlessly.
+Welcome to my GitHub! A INTJ-A tech girlie who loves building little worlds on a screen... yeah that’s me. 🍃
 
-I’ve completed 2 freelance projects and am currently working on my 3rd, shaping both front and back into seamless experiences.
+I’ve completed 2 freelance projects and am currently working on my 3rd, shaping both front and back into seamless experiences. I’m always creating, learning, contributing, and experimenting, and some of those little pieces live here too. 
 
-##  About Me
-
-- 🎓 BCA Graduate | (Results yet to be announced)
-- 🍃 I am an INTJ-A.
-- ✨ Building/contributing something day by day.
-- 🎥 Explored AI research in deepfake detection, developing hybrid models (Xception + LSTM/GRU) in Google Colab, with a research paper in preparation
-- 🌏 Ranked in the Top 18% (out of 5,231 participants) at METI Japan’s Global IT Contest 2025, part of the AI & Tech Internship selection program
-
-## Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
-</p>
-
-## Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,bootstrap,tailwind" />
-</p>
-
-## Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
-</p>
+## Tech Overview
+<table width="100%" align="center">
+  <tr align="center">
+    <td>
+      <h3>Programming Languages</h3>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+    </td>
+    <td>
+      <h3>Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+    </td>
+    <td align="center">
+      <h3>Tech Stack</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,bootstrap,tailwind" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Hacktoberfest 2025
-
 [![An image of @palchhinparihar's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)
 
 ## GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=palchhinparihar&show_icons=true&theme=transparent&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=palchhinparihar&theme=transparent&hide_border=true" height="170" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=palchhinparihar&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=palchhinparihar&theme=algolia&no-frame=false&no-bg=false&margin-w=4" height="170" />
+</p>
