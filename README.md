@@ -1,8 +1,18 @@
-# Hi, [Palchhin](https://palchhin.me) here! :)
+<h1 align="center">
+  Hi, <a href="https://palchhin.me" target="_blank">Palchhin</a> here! :)
+</h1>
 
-Welcome to my GitHub! A INTJ-A tech girlie who loves building little worlds on a screen... yeah that’s me. 🍃
+<p align="center">
+  Welcome to my GitHub! A INTJ-A tech girlie who loves building little worlds on a screen... yeah that’s me. 🍃
+</p>
 
-I’ve completed 2 freelance projects and am currently working on my 3rd, shaping both front and back into seamless experiences. I’m always creating, learning, contributing, and experimenting, and some of those little pieces live here too. 
+<p align="center">
+  I’ve completed 2 freelance projects and am currently working on my 3rd, shaping both front and back into seamless experiences. I’m always creating, learning, contributing, and experimenting, and some of those little pieces live here too. 
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/palchhinparihar/palchhinparihar/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution grid" />
+</div>
 
 ## Tech Overview
 <table width="100%" align="center">
