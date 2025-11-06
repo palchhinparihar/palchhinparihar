@@ -1,10 +1,10 @@
 <h1 align="center">
-  Hi, <a href="https://palchhin.me" target="_blank">Palchhin</a> here! :)
+  Hi, <a href="https://palchhin.me" target="_blank">Palchhin</a> here~
 </h1>
 
-<p align="center">
-  Welcome to my GitHub! A INTJ-A tech girlie who loves building little worlds on a screen... yeah that’s me. 🍃
-</p>
+<h3 align="center">
+  Welcome to my GitHub! A INTJ-A tech girlie who loves building little worlds on a screen... yup, that’s me. 🍃
+</h3>
 
 <p align="center">
   I’ve completed 2 freelance projects and am currently working on my 3rd, shaping both front and back into seamless experiences. I’m always creating, learning, contributing, and experimenting, and some of those little pieces live here too. 
@@ -21,15 +21,15 @@
       <h3>Programming Languages</h3>
       <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
     </td>
-    <td>
-      <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
-    </td>
     <td align="center">
-      <h3>Tech Stack</h3>
+      <h3>Tech Stack (Front + Back)</h3>
       <p>
         <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,bootstrap,tailwind" />
       </p>
+    </td>
+    <td>
+      <h3>Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
     </td>
   </tr>
 </table>
@@ -46,4 +46,4 @@
 </p>
 
 ## Hacktoberfest 2025
-[![An image of @palchhinparihar's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)
+[![@palchhinparihar's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)
