@@ -24,9 +24,6 @@ I’ve completed 2 freelance projects and am currently working on my 3rd, shapin
   </tr>
 </table>
 
-## Hacktoberfest 2025
-[![An image of @palchhinparihar's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)
-
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=palchhinparihar&show_icons=true&theme=transparent&hide_border=true" height="170" />
@@ -37,3 +34,6 @@ I’ve completed 2 freelance projects and am currently working on my 3rd, shapin
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=palchhinparihar&theme=algolia&no-frame=false&no-bg=false&margin-w=4" height="170" />
 </p>
+
+## Hacktoberfest 2025
+[![An image of @palchhinparihar's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)
