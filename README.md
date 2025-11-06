@@ -15,16 +15,22 @@
 </div>
 
 ## Tech Overview
-<table width="100%" align="center">
+<table width="100vw" align="center">
   <tr align="center">
     <td>
-      <h3>Programming Languages</h3>
+      <h3>Programming Lang.</h3>
       <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
     </td>
     <td align="center">
-      <h3>Tech Stack (Front + Back)</h3>
+      <h3>Frontend</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,bootstrap,tailwind" />
+        <img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind" />
+      </p>
+    </td>
+    <td align="center">
+      <h3>Backend</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
       </p>
     </td>
     <td>
