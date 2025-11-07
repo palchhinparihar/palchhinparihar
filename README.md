@@ -55,8 +55,8 @@
 [![@palchhinparihar's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)
 
 ## Social Links
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/44M9vdc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palchhinparihar)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/palchhinparihar)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palchhinparihar@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palchhinparihar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E65053.svg?logo=Globe&logoColor=white)](https://palchhin.me)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
