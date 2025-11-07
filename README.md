@@ -54,7 +54,7 @@
 ## Hacktoberfest 2025
 [![@palchhinparihar's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)
 
-## Social Links:
+## Social Links
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/44M9vdc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palchhinparihar)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/palchhinparihar)
