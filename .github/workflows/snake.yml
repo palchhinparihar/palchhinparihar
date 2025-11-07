@@ -1,9 +1,14 @@
-name: generate animation
+name: Generate Animation 🐍 + Pacman 🟡
 
 on:
+  # 🕒 Runs every 24 hours
   schedule:
     - cron: "0 */24 * * *"
+
+  # ▶️ Allows you to run it manually from the Actions tab
   workflow_dispatch:
+
+  # 🔄 Triggers on push to main or master branch
   push:
     branches:
       - main
@@ -11,13 +16,16 @@ on:
 
 jobs:
   generate:
+    # ✍️ Needed for pushing generated files to the output branch
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      # 🧩 Step 1: Generate GitHub contribution snake (light + dark)
+      - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -25,15 +33,17 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: generate pacman-contribution-graph.svg
+      # 🟡 Step 2: Generate Pacman-style contribution graph
+      - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-        
-      - name: push to the output branch
+
+      # 🚀 Step 3: Push both generated animations to the 'output' branch
+      - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output       # Branch where generated files will live
+          build_dir: dist             # Folder containing generated SVGs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Authentication token
