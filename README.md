@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/palchhinparihar/palchhinparihar/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution grid" />
+  <img src="https://raw.githubusercontent.com/palchhinparihar/palchhinparihar/output/pacman-contribution-graph-dark.svg" alt="Snake contribution grid" />
 </div>
 
 ## Tech Overview
