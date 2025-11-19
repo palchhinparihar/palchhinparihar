@@ -10,9 +10,13 @@
   I’ve completed 2 freelance projects and am currently working on my 3rd, shaping both front and back into seamless experiences. I’m always creating, learning, contributing, and experimenting, and some of those little pieces live here too. 
 </p>
 
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/palchhinparihar/palchhinparihar/output/pacman-contribution-graph-dark.svg" alt="Snake contribution grid" />
 </div>
+
+---
 
 ## Tech Overview
 <table width="100vw" align="center">
