@@ -61,7 +61,7 @@
 ## Social Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23E65053.svg?logo=Globe&logoColor=white)](https://palchhin.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palchhinparihar)
-[![X](https://img.shields.io/badge/X-%230077B5.svg?logo=X&logoColor=white)](https://x.com/palchhinx)
+[![Twitter (X)](https://img.shields.io/badge/X-%230077B5.svg?logo=X&logoColor=white)](https://x.com/palchhinx)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/palchhinparihar)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palchhinparihar@gmail.com)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
