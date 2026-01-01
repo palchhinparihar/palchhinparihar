@@ -50,11 +50,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=palchhinparihar&theme=transparent&hide_border=true" height="170" />
 </p>
 
-## GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=palchhinparihar&theme=algolia&no-frame=false&no-bg=false&margin-w=4" height="170" />
-</p>
-
 ## Hacktoberfest 2025
 [![@palchhinparihar's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)
 
