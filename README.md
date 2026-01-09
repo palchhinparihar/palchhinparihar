@@ -44,12 +44,6 @@
   </tr>
 </table>
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palchhinparihar&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palchhinparihar&theme=transparent&hide_border=true" height="170" />
-</p>
-
 ## Hacktoberfest 2025
 [![@palchhinparihar's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)
 
