@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-  <a href="https://palchhin.netlify.app"><b>Portfolio</b></a> •
-  <a href="mailto:palchhinparihar@gmail.com"><b>Email</b></a> •
-  <a href="https://linkedin.com/in/palchhinparihar"><b>LinkedIn</b></a> •
-  <a href="https://www.codedex.io/@palchhin"><b>Codédex</b></a> •
-  <a href="https://devfolio.co/@palchhinparihar"><b>Devfolio</b></a> •
-  <a href="https://devpost.com/palchhinparihar"><b>Devpost</b></a> •
-  <a href="https://x.com/palchhinx"><b>X (Twitter)</b></a>
+  <a href="https://palchhin.netlify.app" target="_blank"><b>Portfolio</b></a> •
+  <a href="mailto:palchhinparihar@gmail.com" target="_blank"><b>Email</b></a> •
+  <a href="https://linkedin.com/in/palchhinparihar" target="_blank"><b>LinkedIn</b></a> •
+  <a href="https://www.codedex.io/@palchhin" target="_blank"><b>Codédex</b></a> •
+  <a href="https://devfolio.co/@palchhinparihar" target="_blank"><b>Devfolio</b></a> •
+  <a href="https://devpost.com/palchhinparihar" target="_blank"><b>Devpost</b></a> •
+  <a href="https://x.com/palchhinx" target="_blank"><b>X (Twitter)</b></a>
 </p>
 
 ---
