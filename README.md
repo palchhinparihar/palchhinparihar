@@ -35,8 +35,8 @@
 
 ## ✨ About Me
 - 🇰🇷 Teaching myself Korean, one word at a time  
-- 🛠️ Working on my **3rd open-source program**
-- 🚀 Been part of **3 hackathons** (chaotic but fun)
+- 🛠️ Working on **two open-source programs**
+- 🚀 Been part of **4 hackathons** (chaotic but fun)
 - 📖 Fiction lover - I like stories as much as I like code
 
 ---
