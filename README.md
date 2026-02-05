@@ -30,7 +30,7 @@
 
 ---
 
-## ✨ About Me
+## ✨ What I am upto
 - 🇰🇷 Teaching myself Korean, one word at a time
 - 🛠️ Working on **two open-source programs**
 - 🚀 Been part of **4 hackathons** (chaotic but fun)
