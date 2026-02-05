@@ -26,10 +26,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/palchhinparihar/palchhinparihar/output/pacman-contribution-graph-dark.svg"
-       alt="Pacman contribution graph" />
-</div>
+![My GitHub Game](game.gif)
 
 ---
 
