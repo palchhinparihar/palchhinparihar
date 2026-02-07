@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  Welcome to my GitHub! A INTJ-A tech girlie who loves building little worlds on a screen... yup, that’s me. 🍃
+  Welcome to my GitHub! An INTJ-A tech girlie who loves building little worlds on a screen... yup, that’s me. 🍃
 </h3>
 
 <p align="center">
@@ -65,3 +65,5 @@
 
 ## 🎃 Hacktoberfest 2025
 [![@palchhinparihar's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)
+
+> Feel free to checkout my projects~
