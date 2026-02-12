@@ -10,13 +10,20 @@
   <i>“An INTJ-A tech girlie who loves building little worlds on a screen... yup, that’s me. 🍃”</i>
 </h4>
 
+### _What I do_
+
+- Craft cozy little web worlds with different technologies
+- Mix and match frontend & backend to make apps feel seamless  
+- Play around with open-source projects and hackathon adventures  
+- Learn new tech and sprinkle creativity into every project  
+- Tinker with fun side-projects just to see what sticks  
+
 ### _Current Exploration_
 - Learning Korean (2A level)
-- Contributing to 2 open source programs - SWOC and WOC 5.0 under WallGodds
-- Participated in 4 hackathons
+- Contributing to 2 open source programs - [SWOC](https://beta.swoc.in) and [WOC 5.0](https://winter-of-code.tech) under WallGodds
+- Participating in [Learn It Global Hackathon V2](https://learnit-globalv2.devpost.com)
 
-### _Featured Projects_
-
+### _Featured Projects_ (under work)
 | Project | Tech | Description | Status | Link |
 |---------|------|------------|--------|------|
 | ReachOut | React, Tailwind | Personal portfolio to showcase projects and skills | Finished | [View](https://palchhin.netlify.app) |
@@ -24,7 +31,6 @@
 | Hackathon Project | React, Firebase | Collaborative hackathon project with real-time features | Unfinished | [Repo](https://github.com/palchhin/hackathon2025) |
 
 ### _Tech Stack_
-
 <table align="center">
   <tr align="center">
     <td>
@@ -52,7 +58,7 @@
 ### _Hacktoberfest 2025_
 [![palchhin's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)
 
-### _Find me here_
+### _Find Me Here_
 <p>
   <a href="https://palchhin.netlify.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:palchhinparihar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
