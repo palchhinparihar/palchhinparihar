@@ -19,46 +19,38 @@
 - Tinker with fun side-projects just to see what sticks  
 
 ### _Current Exploration_
+
 - Learning Korean (2A level)
 - Contributing to 2 open source programs - [SWOC](https://beta.swoc.in) and [WOC 5.0](https://winter-of-code.tech) under WallGodds
 - Participating in [Learn It Global Hackathon V2](https://learnit-globalv2.devpost.com)
 
 ### _Featured Projects_ (under work)
-| Project | Tech | Description | Status | Link |
-|---------|------|------------|--------|------|
-| ReachOut | React, Tailwind | Personal portfolio to showcase projects and skills | Finished | [View](https://palchhin.netlify.app) |
-| Task Manager | Node.js, Express, MongoDB | Full-stack task management app with authentication and CRUD functionality | Finished | [Repo](https://github.com/palchhin/task-manager) |
-| Hackathon Project | React, Firebase | Collaborative hackathon project with real-time features | Unfinished | [Repo](https://github.com/palchhin/hackathon2025) |
+
+| Project | Description | Status | Link |
+|---------|------------|--------|------|
+| E-commerce | Personal portfolio to showcase projects and skills | Finished | [View](https://palchhin.netlify.app) |
+| DeepShield | Full-stack task management app with authentication and CRUD functionality | Finished | [Repo](https://github.com/palchhin/task-manager) |
+| ReachOut | Collaborative hackathon project with real-time features | Unfinished | [Repo](https://github.com/palchhin/hackathon2025) |
 
 ### _Tech Stack_
-<table align="center">
-  <tr align="center">
-    <td>
-      <h4>Languages</h4>
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-    </td>
-    <td>
-      <h4>Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind" />
-    </td>
-    <td>
-      <h4>Backend</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-    </td>
-    <td>
-      <h4>Tools</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
-    </td>
-  </tr>
-</table>
+
+| Category  | Technologies |
+|-----------|-------------|
+| Languages | <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" /> |
+| Frontend  | <img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind" /> |
+| Backend   | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> |
+| Tools     | <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" /> |
 
 ### _Contribution Graph_
+
 ![](https://github-readme-activity-graph.vercel.app/graph?username=palchhinparihar&custom_title=Palchhin's%20Contribution%20Graph&bg_color=0d1117&color=2563eb&line=2563eb&point=fdfdfd&area_color=2563eb&area=true&hide_border=true)
 
 ### _Hacktoberfest 2025_
+
 [![palchhin's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)
 
 ### _Find Me Here_
+
 <p>
   <a href="https://palchhin.netlify.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:palchhinparihar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
