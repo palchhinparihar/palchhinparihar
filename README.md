@@ -24,13 +24,12 @@
 - Contributing to 2 open source programs - [SWOC](https://beta.swoc.in) and [WOC 5.0](https://winter-of-code.tech) under WallGodds
 - Participating in [Learn It Global Hackathon V2](https://learnit-globalv2.devpost.com)
 
-### _Featured Projects_ (under work)
+### _Favorite Projects_ (under work)
 
 | Project | Description | Status | Link |
 |---------|------------|--------|------|
-| E-commerce | Personal portfolio to showcase projects and skills | Finished | [View](https://palchhin.netlify.app) |
-| DeepShield | Full-stack task management app with authentication and CRUD functionality | Finished | [Repo](https://github.com/palchhin/task-manager) |
-| ReachOut | Collaborative hackathon project with real-time features | Unfinished | [Repo](https://github.com/palchhin/hackathon2025) |
+| DeepShield | Verify the authenticity of digital media in an age of misinformation. | Finished | [Repo](https://github.com/palchhinparihar/DeepShield) |
+| ReachOut | A human-centric job application tracker with smart follow-ups, email templates, and career guidance. | Unfinished | [Repo](https://github.com/palchhinparihar/ReachOut) |
 
 ### _Tech Stack_
 
