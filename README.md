@@ -10,26 +10,25 @@
   <i>“An INTJ-A tech girlie who loves building little worlds on a screen... yup, that’s me. 🍃”</i>
 </h4>
 
-### _What I do_
+### _About Me_
 
-- Craft cozy little web worlds with different technologies
-- Mix and match frontend & backend to make apps feel seamless  
-- Play around with open-source projects and hackathon adventures  
-- Learn new tech and sprinkle creativity into every project  
-- Tinker with fun side-projects just to see what sticks  
+I love creating things that feel smooth, thoughtful, and a little bit alive, built on a foundation where everything quietly connects and works in harmony behind the scenes. I’m always creating, learning, contributing, and experimenting, and some of those little pieces live here too. 🌿
 
-### _Current Exploration_
+Outside the world of code, I’m learning Korean, journaling, gaming, travelling, and getting lost in music, all the things that keep me inspired and grounded.
+
+**Currently Exploring**
 
 - Learning Korean (2A level)
-- Contributing to 2 open source programs - [SWOC](https://beta.swoc.in) and [WOC 5.0](https://winter-of-code.tech) under WallGodds
-- Participating in [Learn It Global Hackathon V2](https://learnit-globalv2.devpost.com)
+- Contributing to open-source through [SWOC](https://beta.swoc.in) and [WOC 5.0](https://winter-of-code.tech) under WallGodds
+- Participating in the [Learn It Global Hackathon V2](https://learnit-globalv2.devpost.com)
+- Feb monthly challenge by Codédex - [Dataset Challenge](https://www.codedex.io/community/monthly-challenge/fuyhn9sB6nFKfPKXSvtF)
 
-### _Favorite Projects_ (under work)
+### _Featured Projects_
 
 | Project | Description | Status | Link |
 |---------|------------|--------|------|
 | DeepShield | Verify the authenticity of digital media in an age of misinformation. | Finished | [Repo](https://github.com/palchhinparihar/DeepShield) |
-| ReachOut | A human-centric job application tracker with smart follow-ups, email templates, and career guidance. | Unfinished | [Repo](https://github.com/palchhinparihar/ReachOut) |
+| ReachOut | Human-centric job application tracker with smart follow-ups, email templates, and career guidance. | Unfinished | [Repo](https://github.com/palchhinparihar/ReachOut) |
 
 ### _Tech Stack_
 
