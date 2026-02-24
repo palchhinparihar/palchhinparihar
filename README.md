@@ -20,7 +20,7 @@ Outside the world of code, I’m learning Korean, journaling, gaming, travelling
 
 - Learning Korean (2A level)
 - Contributing to open-source through [SWOC](https://beta.swoc.in) and [WOC 5.0](https://winter-of-code.tech) under WallGodds
-- Participating in the [Learn It Global Hackathon V2](https://learnit-globalv2.devpost.com)
+- Learning Gen AI from [Codedéx](https://www.codedex.io/home)
 
 ### _Featured Projects_
 
