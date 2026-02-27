@@ -20,12 +20,14 @@ Outside the world of code, I’m learning Korean, journaling, gaming, travelling
 
 - Learning Korean (2A level)
 - Contributing to open-source through [SWOC](https://beta.swoc.in) and [WOC 5.0](https://winter-of-code.tech) under WallGodds
+- Participating in the February Dataset Challenge by [Codedex](https://www.codedex.io). Check out my submission [here](https://www.codedex.io/community/monthly-challenge/submission/rBIs8rpHDaAsC78FUj4C)
+- Participating in the [Code Canvas](https://code-canvas-gdg.vercel.app/) competition organised by IIIT Kalyani (GDG). Check out my [portfolio](https://v0-personal-portfolio-red-theta.vercel.app)
 
 ### _Featured Projects_
 
 | Project | Description | Status | Link |
 |---------|------------|--------|------|
-| DeepShield | Verify the authenticity of digital media in an age of misinformation. | Finished | [Repo](https://github.com/palchhinparihar/DeepShield) |
+| DeepShield | Verify the authenticity of digital media amid misinformation. | Finished | [Repo](https://github.com/palchhinparihar/DeepShield) |
 | ReachOut | Human-centric job application tracker with smart follow-ups, email templates, and career guidance. | Unfinished | [Repo](https://github.com/palchhinparihar/ReachOut) |
 
 ### _Tech Stack_
