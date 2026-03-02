@@ -21,6 +21,7 @@ Outside the world of code, I’m learning Korean, journaling, gaming, travelling
 - Learning Korean (2A level)
 - Contributing to open-source through [WOC 5.0](https://winter-of-code.tech) under WallGodds
 - Participating in the [Code Canvas](https://code-canvas-gdg.vercel.app/) competition organised by IIIT Kalyani (GDG). Check out my [portfolio](https://v0-personal-portfolio-red-theta.vercel.app)
+- Daily code challenge on [Codédex](https://www.codedex.io). Check it out [here](https://www.codedex.io/community/monthly-challenge/f6fcKs3xRKWhJQdlkKGV)
 
 ### _Featured Projects_
 
