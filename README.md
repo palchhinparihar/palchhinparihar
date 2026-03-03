@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hi, <a href="https://palchhin.netlify.app" target="_blank">Palchhin</a> here~
+  Hi, <a href="https://palchhin.vercel.app" target="_blank">Palchhin</a> here~
 </h1>
 
 <h4 align="center">
