@@ -23,13 +23,6 @@ Outside the world of code, I’m learning Korean, journaling, gaming, travelling
 - Participating in the [Code Canvas](https://code-canvas-gdg.vercel.app/) competition organised by IIIT Kalyani (GDG). Check out my [portfolio](https://v0-personal-portfolio-red-theta.vercel.app)
 - Daily code challenge on [Codédex](https://www.codedex.io). Check it out [here](https://www.codedex.io/community/monthly-challenge/f6fcKs3xRKWhJQdlkKGV)
 
-### _Featured Projects_
-
-| Project | Description | Status | Link |
-|---------|------------|--------|------|
-| DeepShield | Verify the authenticity of digital media amid misinformation. | Finished | [Repo](https://github.com/palchhinparihar/DeepShield) |
-| ReachOut | Human-centric job application tracker with smart follow-ups, email templates, and career guidance. | Unfinished | [Repo](https://github.com/palchhinparihar/ReachOut) |
-
 ### _Tech Stack_
 
 | Category  | Technologies |
