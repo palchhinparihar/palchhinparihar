@@ -18,8 +18,8 @@ Outside the world of code, I’m learning Korean, journaling, gaming, travelling
 
 **Currently Exploring**
 
-- Learning Korean (2A level)
-- Contributing to open-source through [WOC 5.0](https://winter-of-code.tech) under WallGodds
+- Learning Korean (2A level) from the online King Sejong Institute
+- Contributing to open-source through [WOC 5.0](https://winter-of-code.tech) under WallGodds 
 - Daily code challenge on [Codédex](https://www.codedex.io). Check it out [here](https://www.codedex.io/community/monthly-challenge/f6fcKs3xRKWhJQdlkKGV)
 
 ### _Tech Stack_
@@ -50,3 +50,9 @@ Outside the world of code, I’m learning Korean, journaling, gaming, travelling
   <a href="https://devpost.com/palchhinparihar"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/></a>
   <a href="https://x.com/palchhinx"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
 </p>
+
+<p align="center">
+  <i>thanks for stopping by ~ see you next time! 🎐</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=100&section=footer" width="100%"/>
