@@ -54,5 +54,3 @@ Outside the world of code, I’m learning Korean, journaling, gaming, travelling
 <p align="center">
   <i>thanks for stopping by ~ see you next time! 🎐</i>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=100&section=footer" width="100%"/>
