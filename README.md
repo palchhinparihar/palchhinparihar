@@ -19,7 +19,6 @@ Outside the world of code, I’m learning Korean, journaling, gaming, travelling
 **Currently Exploring**
 
 - Learning Korean (2A level) from the online King Sejong Institute
-- Contributing to open-source through [WOC 5.0](https://winter-of-code.tech) under WallGodds 
 - Daily code challenge on [Codédex](https://www.codedex.io). Check it out [here](https://www.codedex.io/community/monthly-challenge/f6fcKs3xRKWhJQdlkKGV)
 
 ### _Tech Stack_
