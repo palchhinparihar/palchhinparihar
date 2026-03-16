@@ -19,7 +19,8 @@ Outside the world of code, I’m learning Korean, journaling, gaming, travelling
 **Currently Exploring**
 
 - Learning Korean (2A level) from the online King Sejong Institute
-- Daily code challenge on [Codédex](https://www.codedex.io). Check it out [here](https://www.codedex.io/community/monthly-challenge/f6fcKs3xRKWhJQdlkKGV)
+- Daily code challenge on [Codédex](https://www.codedex.io). Check out the challenge [here](https://www.codedex.io/community/monthly-challenge/f6fcKs3xRKWhJQdlkKGV) and my submissions [here](https://github.com/palchhinparihar/codedex-daily-challenge)
+- Joined Aspire Leaders Program Cohort 1 
 
 ### _Tech Stack_
 
