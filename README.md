@@ -19,7 +19,8 @@ Outside the world of code, I’m learning Korean, journaling, gaming, travelling
 **Currently Exploring**
 
 - Learning Korean (2A level) from the online King Sejong Institute
-- Joined Aspire Leaders Program Cohort 1 
+- Joined Aspire Leaders Program Cohort 1
+- Revising [C++](https://codedex.io/cpp) on [Codédex](https://codedex.io)
 
 ### _Tech Stack_
 
