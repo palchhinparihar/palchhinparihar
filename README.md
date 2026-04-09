@@ -19,7 +19,6 @@ Outside the world of code, I’m learning Korean, journaling, gaming, travelling
 **Currently Exploring**
 
 - Learning Korean (2A level) from the online King Sejong Institute
-- Revising [C++](https://codedex.io/cpp) on [Codédex](https://codedex.io)
 - Participating in Codédex [April Monthly Challenge](https://www.codedex.io/community/monthly-challenge/ewyM4mwJJEG0K3qcoaKp)
 
 ### _Tech Stack_
