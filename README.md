@@ -20,6 +20,7 @@ Outside the world of code, I’m learning Korean, journaling, gaming, travelling
 
 - Learning Korean (2A level) from the online King Sejong Institute
 - Participating in Codédex [April Monthly Challenge](https://www.codedex.io/community/monthly-challenge/ewyM4mwJJEG0K3qcoaKp)
+- Learning System Design
 
 ### _Tech Stack_
 
