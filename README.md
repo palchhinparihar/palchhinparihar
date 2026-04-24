@@ -41,16 +41,20 @@ Outside the world of code, I’m learning Korean, journaling, gaming, travelling
 
 ### _Find Me Here_
 
-<p>
-  <a href="https://palchhin.netlify.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:palchhinparihar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/palchhinparihar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com//techgirliie"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=insta&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.codedex.io/@palchhin"><img src="https://img.shields.io/badge/Codédex-FFE900?style=for-the-badge&logo=code&logoColor=white" alt="Codédex"/></a>
-  <a href="https://devfolio.co/@palchhinparihar"><img src="https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio"/></a>
-  <a href="https://devpost.com/palchhinparihar"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/></a>
-  <a href="https://x.com/palchhinx"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
-</p>
+<div align="center">
+
+  <p>
+    <a href="https://palchhin.netlify.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="mailto:palchhinparihar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.linkedin.com/in/palchhinparihar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://instagram.com//techgirliie"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=insta&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.codedex.io/@palchhin"><img src="https://img.shields.io/badge/Codédex-FFE900?style=for-the-badge&logo=code&logoColor=white" alt="Codédex"/></a>
+    <a href="https://devfolio.co/@palchhinparihar"><img src="https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio"/></a>
+    <a href="https://devpost.com/palchhinparihar"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/></a>
+    <a href="https://x.com/palchhinx"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+  </p>
+  
+</div>
 
 <p align="center">
   <i>thanks for stopping by ~ see you next time! 🎐</i>
