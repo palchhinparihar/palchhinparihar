@@ -16,10 +16,6 @@ I love creating things that feel smooth, thoughtful, and a little bit alive, bui
 
 Outside the world of code, I’m learning Korean, journaling, gaming, travelling, and getting lost in music, all the things that keep me inspired and grounded.
 
-**Currently Exploring**
-
-- Learning System Design
-
 ### _Tech Stack_
 
 | Category  | Technologies |
@@ -33,9 +29,9 @@ Outside the world of code, I’m learning Korean, journaling, gaming, travelling
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=palchhinparihar&custom_title=Palchhin's%20Contribution%20Graph&bg_color=0d1117&color=2563eb&line=2563eb&point=fdfdfd&area_color=2563eb&area=true&hide_border=true)
 
-### _Hacktoberfest 2025_
+<!-- ### _Hacktoberfest 2025_ -->
 
-[![palchhin's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)
+<!-- [![palchhin's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)/ -->
 
 ### _Find Me Here_
 
