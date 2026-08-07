@@ -6,10 +6,6 @@
   Hi, <a href="https://palchhin.netlify.app" target="_blank">Palchhin</a> here~
 </h1>
 
-<h4 align="center">
-  <i>“An INTJ-A tech girlie who loves building little worlds on a screen... yup, that’s me. 🍃”</i>
-</h4>
-
 ### _About Me_
 
 I love creating things that feel smooth, thoughtful, and a little bit alive, built on a foundation where everything quietly connects and works in harmony behind the scenes. I’m always creating, learning, contributing, and experimenting, and some of those little pieces live here too. 🌿
