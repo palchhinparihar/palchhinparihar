@@ -3,14 +3,18 @@
 </div>
 
 <h1 align="center">
-  Hi, <a href="https://palchhin.netlify.app" target="_blank">Palchhin</a> here~
+  Hi, <a href="https://palchhin.netlify.app" target="_blank">Palchhin</a> here ヾ(≧▽≦*)o
 </h1>
 
 ### _About Me_
 
-I love creating things that feel smooth, thoughtful, and a little bit alive, built on a foundation where everything quietly connects and works in harmony behind the scenes. I’m always creating, learning, contributing, and experimenting, and some of those little pieces live here too. 🌿
+I work as a freelancer in web development while continuously learning and strengthening my technical fundamentals. I enjoy building things, learning by doing, and exploring ideas through hands-on projects. I’m someone who likes understanding how things work and turning that curiosity into something tangible.
 
-Outside the world of code, I’m learning Korean, journaling, gaming, travelling, and getting lost in music, all the things that keep me inspired and grounded.
+Beyond technology, I’m interested in wellness - helping people build healthy habits, learning Korean, travelling, music, and discovering new perspectives.
+
+I’m naturally curious, always looking for something new to learn, and I enjoy picking up something meaningful from both the things I build and the experiences I have along the way. 🌿
+
+PS: 제 MBTI는 INTJ-A입니다.
 
 ### _Tech Stack_
 
