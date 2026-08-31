@@ -14,16 +14,76 @@ Beyond technology, I’m interested in wellness - helping people build healthy h
 
 I’m naturally curious, always looking for something new to learn, and I enjoy picking up something meaningful from both the things I build and the experiences I have along the way. 🌿
 
-PS: 제 MBTI는 INTJ-A입니다.
-
 ### _Tech Stack_
 
-| Category  | Technologies |
-|-----------|-------------|
-| Languages | <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" /> |
-| Frontend  | <img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind" /> |
-| Backend   | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> |
-| Tools     | <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" /> |
+<table width="100%">
+<tr>
+  <td><b>Languages</b></td>
+<td>
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+</td>
+</tr>
+
+<tr>
+<td><b>Frontend</b></td>
+<td>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+</td>
+</tr>
+
+<tr>
+<td><b>Backend</b></td>
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+</td>
+</tr>
+
+<tr>
+<td><b>AI / ML</b></td>
+<td>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+</td>
+</tr>
+
+<tr>
+<td><b>APIs & Bots</b></td>
+<td>
+
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=fastapi&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat&logo=discord&logoColor=white)
+</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+</td>
+</tr>
+</table>
 
 ### _Contribution Graph_
 
