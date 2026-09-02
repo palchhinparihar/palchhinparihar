@@ -85,7 +85,7 @@ I’m naturally curious, always looking for something new to learn, and I enjoy 
 </tr>
 </table>
 
-### _Contribution Graph_
+<!-- ### _Contribution Graph_ -->
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=palchhinparihar&custom_title=Palchhin's%20Contribution%20Graph&bg_color=0d1117&color=2563eb&line=2563eb&point=fdfdfd&area_color=2563eb&area=true&hide_border=true)
 
