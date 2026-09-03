@@ -8,11 +8,13 @@
 
 ### _About Me_
 
-I work as a freelancer in web development while continuously learning and strengthening my technical fundamentals. I enjoy building things, learning by doing, and exploring ideas through hands-on projects. I’m someone who likes understanding how things work and turning that curiosity into something tangible.
+I work as a freelancer in web development while continuously learning and strengthening my technical fundamentals. I enjoy building things, learning by doing, and exploring ideas through hands-on projects. I’m someone who likes to understand how things work and turn that curiosity into something tangible.
 
 Beyond technology, I’m interested in wellness - helping people build healthy habits, learning Korean, travelling, music, and discovering new perspectives.
 
 I’m naturally curious, always looking for something new to learn, and I enjoy picking up something meaningful from both the things I build and the experiences I have along the way. 🌿
+
+<a href="https://doi.org/10.5281/zenodo.17447826"><img src="https://img.shields.io/badge/Read My Paper-7C3AED?style=for-the-badge&logoColor=white" alt="Research Paper"/></a>
 
 ### _Tech Stack_
 
