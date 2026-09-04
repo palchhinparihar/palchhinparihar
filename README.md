@@ -14,6 +14,8 @@ Beyond technology, I’m interested in wellness - helping people build healthy h
 
 I’m naturally curious, always looking for something new to learn, and I enjoy picking up something meaningful from both the things I build and the experiences I have along the way. 🌿
 
+I have conducted AI research in deepfake detection during the final semester of my bachelor's degree.
+
 <a href="https://doi.org/10.5281/zenodo.17447826"><img src="https://img.shields.io/badge/Read My Paper-7C3AED?style=for-the-badge&logoColor=white" alt="Research Paper"/></a>
 
 ### _Tech Stack_
