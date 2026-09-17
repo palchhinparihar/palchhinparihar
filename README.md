@@ -96,21 +96,6 @@ I have conducted AI research in deepfake detection during the final semester of 
 <!-- ### _Hacktoberfest 2025_ -->
 
 <!-- [![palchhin's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)/ -->
-
-### _Find Me Here_
-
-<div align="center">
-
-  <p>
-    <a href="https://palchhin.netlify.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-    <a href="mailto:palchhinparihar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://www.linkedin.com/in/palchhinparihar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://instagram.com//techgirliie"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://www.codedex.io/@palchhin"><img src="https://img.shields.io/badge/Codédex-FFE900?style=for-the-badge&logo=computer&logoColor=white" alt="Codédex"/></a>
-    <a href="https://x.com/palchhinx"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
-    <a href="http://figma.com/@palchhinx"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-  </p>
-  
 </div>
 
 <p align="center">
