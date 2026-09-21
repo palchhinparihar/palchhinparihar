@@ -99,5 +99,5 @@ I have conducted AI research in deepfake detection during the final semester of 
 </div>
 
 <p align="center">
-  <i>thanks for stopping by ~ see you next time! 🎐</i>
+  <i>thanks for stopping by~ see you next time! 🎐</i>
 </p>
