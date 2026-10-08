@@ -98,6 +98,11 @@ I have conducted AI research in deepfake detection during the final semester of 
 <!-- [![palchhin's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)/ -->
 </div>
 
+### _My Socials_
+
+<a href="https://palchhin-linktree.codedex.me"><img src="https://img.shields.io/badge/Personal linktree-143A78?style=for-the-badge&logoColor=white" alt="Personal links"/></a>
+  <a href="https://parihars-linktree.netlify.app"><img src="https://img.shields.io/badge/Wellness linktree-002B00?style=for-the-badge&logoColor=white" alt="Wellness links"/></a>
+
 <p align="center">
   <i>thanks for stopping by~ see you next time! 🎐</i>
 </p>
