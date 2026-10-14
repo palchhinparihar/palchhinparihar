@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hi, <a href="https://palchhin.netlify.app" target="_blank">Palchhin</a> here (❁´◡`❁)
+  Hi, <a href="https://palchhin.netlify.app" target="_blank">Palchhin</a> here ✧⁠◝⁠(⁠⁰⁠▿⁠⁰⁠)⁠◜⁠✧
 </h1>
 
 ### _About Me_
