@@ -3,12 +3,12 @@
 </div>
 
 <h1 align="center">
-  Hi, <a href="https://palchhin.netlify.app" target="_blank">Palchhin</a> here ✧⁠◝⁠(⁠⁰⁠▿⁠⁰⁠)⁠◜⁠✧
+  Hi, <a href="https://palchhin.netlify.app" target="_blank">Palchhin</a> here ˚˖𓍢ִ໋❀
 </h1>
 
 ### _About Me_
 
-I work as a freelancer in web development while continuously learning and strengthening my technical fundamentals. I enjoy building things, learning by doing, and exploring ideas through hands-on projects. I’m someone who likes to understand how things work and turn that curiosity into something tangible.
+I work as a freelancer in web development (MERN stack) while continuously learning and strengthening my technical fundamentals. I enjoy building things, learning by doing, and exploring ideas through hands-on projects. I’m someone who likes to understand how things work and turn that curiosity into something tangible.
 
 Beyond technology, I’m interested in wellness - helping people build healthy habits, learning Korean, travelling, music, and discovering new perspectives.
 
