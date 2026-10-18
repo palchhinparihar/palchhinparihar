@@ -6,7 +6,7 @@
   Hi, <a href="https://palchhin.netlify.app" target="_blank">Palchhin</a> here ˚˖𓍢ִ໋❀
 </h1>
 
-### _About Me_
+### _About Me ˚⟡˖ ࣪_
 
 I work as a freelancer in web development (MERN stack) while continuously learning and strengthening my technical fundamentals. I enjoy building things, learning by doing, and exploring ideas through hands-on projects. I’m someone who likes to understand how things work and turn that curiosity into something tangible.
 
@@ -18,7 +18,7 @@ I have conducted AI research in deepfake detection during the final semester of 
 
 <a href="https://doi.org/10.5281/zenodo.17447826"><img src="https://img.shields.io/badge/Read My Paper-7C3AED?style=for-the-badge&logoColor=white" alt="Research Paper"/></a>
 
-### _Tech Stack_
+### _Tech Stack ͙͘͡★_
 
 <table width="100%">
 <tr>
@@ -98,7 +98,7 @@ I have conducted AI research in deepfake detection during the final semester of 
 <!-- [![palchhin's Holopin badges](https://holopin.me/palchhinparihar)](https://holopin.io/@palchhinparihar)/ -->
 </div>
 
-### _My Socials_
+### _My Socials ᯓ★_
 
 <a href="https://palchhin-linktree.codedex.me"><img src="https://img.shields.io/badge/Personal linktree-F5F5DC?style=for-the-badge&logoColor=white" alt="Personal links"/></a>
   <a href="https://parihars-linktree.netlify.app"><img src="https://img.shields.io/badge/Wellness linktree-007200?style=for-the-badge&logoColor=white" alt="Wellness links"/></a>
